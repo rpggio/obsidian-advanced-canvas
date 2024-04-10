@@ -1,4 +1,5 @@
 {
+	"name": "obsidian-advanced-canvas",
 	"main": "src/main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs"
